@@ -1,0 +1,8 @@
+# Python Reseach lab code 2
+
+'''
+Python framework for both machine learning and artificial learning.
+'''
+list=["Tensorflow" , "keras" ,"Pytorch", "Scikit learn" , "Pandas" , "Numpy", "Theano"]
+
+print(list)
